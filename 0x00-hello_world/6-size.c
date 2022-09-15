@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-	printf("%lu\n", sizeof(char));
-	printf("%lu\n", sizeof(int));
-	printf("%lu\n", sizeof(float));
-	printf("%lu", sizeof(double));
+	printf("Size of char: %ld byte\n",sizeof(char));
+	printf("Size of int: %ld bytes\n",sizeof(int));
+	printf("Size float: %ld bytes\n,sizeof(float));
+	printf("Size of double: %ld bytes", sizeof(double));
 	return 0;
 }
 
