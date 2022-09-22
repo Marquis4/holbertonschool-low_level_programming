@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Check if letter is upper
+ * _isupper - Check if letter is upper
  * @c: The number to be checked
  *
  * Return: 1 for upper letter or 0 for any else
