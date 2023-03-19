@@ -5,6 +5,7 @@
  *   * @n: number
  *    * Return: void
  *     */
+
 void print_binary(unsigned long int n)
 {
 	char b;
